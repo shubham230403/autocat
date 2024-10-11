@@ -117,8 +117,8 @@ If you wish to contribute to the development of AutoCat, feel free to submit a p
 ---
 
 ## Contact
-**Developer**: Yash Pawar  
-**Email**: [yashpawar1199@gmail.com](mailto:yashpawar1199@gmail.com)
+**Developer**: Shubham bora 
+**Email**: [bora00931@gmail.com](mailto:bora00931@gmail.com)
 
 If you encounter any issues or have questions, feel free to reach out!
 
