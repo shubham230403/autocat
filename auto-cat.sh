@@ -22,13 +22,13 @@ display_banner() {
     echo "  ███████║██║   ██║   ██║   ██║   ██║██║     ███████║   ██║   "
     echo "  ██╔══██║██║   ██║   ██║   ██║   ██║██║     ██╔══██║   ██║   "
     echo "  ██║  ██║╚██████╔╝   ██║   ╚██████╔╝╚██████╗██║  ██║   ██║   "
-    echo -e "${PURPLE}                 Created by Yash Pawar${NC}"
+    echo -e "${PURPLE}                 Created by Shubham bora${NC}"
     echo
     echo -e "${CYAN}==============================================="
-    echo " Welcome to Hackers Paradise - AutoCat Tool"
+    echo " Welcome to Skautorobo Pvt.ltd - AutoCat Tool"
     echo " A versatile and easy-to-use netcat automation"
     echo " tool with integrated nmap scans."
-    echo " Contact: yashpawar1199@gmail.com"
+    echo " Contact: bora00931@gmail.com"
     echo "===============================================${NC}"
     echo
 }
